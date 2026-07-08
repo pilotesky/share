@@ -21,5 +21,11 @@
     <p>正在跳转到软件下载页面...</p>
     <a href="/softs/">如果没有自动跳转，请点击这里</a>
   </div>
+  <script>
+    document.querySelectorAll('a').forEach(function(a) {
+      a.setAttribute('target', '_blank');
+      a.setAttribute('rel', 'noopener noreferrer');
+    });
+  </script>
 </body>
 </html>

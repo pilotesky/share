@@ -23,5 +23,11 @@
     <h1>{{ .Title }}</h1>
     {{ .Content }}
   </div>
+  <script>
+    document.querySelectorAll('a').forEach(function(a) {
+      a.setAttribute('target', '_blank');
+      a.setAttribute('rel', 'noopener noreferrer');
+    });
+  </script>
 </body>
 </html>
