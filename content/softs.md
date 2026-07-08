@@ -11,9 +11,9 @@ tags = ['软件', '下载']
 | 软件 | 官网 | 系统要求 | 备注 |
 |------|------|----------|------|
 | 向日葵 | [sunlogin.oray.com](https://sunlogin.oray.com) | 需要 Windows 7 及以上的系统 | 点击个人版下载-点击下载64位 |
-| 向日葵（简约版） | [本站下载](/files/xrk_lite.exe) | 需要 Windows 7 及以上的系统 | 便携版，双击即用 |
+| 向日葵（简约版） | [本站下载](/files/xrk_lite.exe?v=2) | 需要 Windows 7 及以上的系统 | 便携版，双击即用 |
 | Todesk | [www.todesk.com](https://www.todesk.com/download.html) | 需要 Windows 7 及以上的系统 | 点击Windows图标下载 |
-| Todesk（简约版） | [本站下载](/files/todesk_lite.exe) | 需要 Windows 7 及以上的系统 | 便携版，双击即用 |
+| Todesk（简约版） | [本站下载](/files/todesk_lite.exe?v=2) | 需要 Windows 7 及以上的系统 | 便携版，双击即用 |
 
 ## 沟通软件
 
