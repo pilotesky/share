@@ -65,4 +65,4 @@ tags = ['软件', '下载']
 |------|------|----------|------|
 | 火绒应用商店 | [huorong.cn/appstore](https://www.huorong.cn/appstore) | 需要 Windows 7 及以上的系统 | 火绒官方应用商店 |
 | 联想应用商店 | [lestore.lenovo.com](https://lestore.lenovo.com/) | 需要 Windows 7 及以上的系统 | 联想官方软件商店 |
-| HP 应用商店 | [123.hp.com](https://123.hp.com/cn/zh/) | 需要 Windows 10 及以上的系统 | HP 官方应用与驱动下载入口 |
+| HP 应用商店 | [appstore.horizon.hp.com.cn](https://appstore.horizon.hp.com.cn/) | 需要 Windows 10 及以上的系统 | HP 官方应用商店 |
