@@ -58,3 +58,11 @@ tags = ['软件', '下载']
 | 软件 | 官网 | 系统要求 | 备注 |
 |------|------|----------|------|
 | 福昕 PDF 阅读器 | [foxitsoftware.cn](https://www.foxitsoftware.cn/pdf-reader/?agent=foxit&MD=menu) | 需要 Windows 7 及以上的系统 | PDF 阅读、注释 |
+
+## 应用商场
+
+| 软件 | 官网 | 系统要求 | 备注 |
+|------|------|----------|------|
+| 火绒应用商店 | [huorong.cn/appstore](https://www.huorong.cn/appstore) | 需要 Windows 7 及以上的系统 | 火绒官方应用商店 |
+| 联想应用商店 | [lestore.lenovo.com](https://lestore.lenovo.com/) | 需要 Windows 7 及以上的系统 | 联想官方软件商店 |
+| HP 应用商店 | [123.hp.com](https://123.hp.com/cn/zh/) | 需要 Windows 10 及以上的系统 | HP 官方应用与驱动下载入口 |
